@@ -1,0 +1,1067 @@
+total 92296
+-rwxr-xr-x   5 root   wheel       925  5 Jun 22:26 2to3
+-rwxr-xr-x   5 root   wheel       925  5 Jun 22:26 2to3-
+lrwxr-xr-x   1 root   wheel        74  5 Jun 22:26 2to3-2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/2to3-2.7
+lrwxr-xr-x   1 root   wheel        73  5 Jun 22:26 2to32.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/2to32.6
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 BuildStrings
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 CpMac
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 DeRez
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 GetFileInfo
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 MergePef
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 MvMac
+-rwxr-xr-x   1 root   wheel     14752  5 Jun 22:25 RSA_SecurID_getpasswd
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 ResMerger
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 Rez
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 RezDet
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 RezWack
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 SetFile
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 SplitForks
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 UnRezWack
+-rwxr-xr-x   1 root   wheel     58608  5 Jun 22:25 a2p
+-rwxr-xr-x   1 root   wheel    221600  5 Jun 22:25 a2p5.12
+-rwxr-xr-x   1 root   wheel    221600  5 Jun 22:25 a2p5.16
+-rwxr-xr-x   1 root   wheel     29824  5 Jun 22:22 addftinfo
+-rwxr-xr-x   1 root   wheel    124912  6 Jun 09:37 afconvert
+-rwxr-xr-x   1 root   wheel     28992  6 Jun 09:37 afhash
+-rwxr-xr-x   1 root   wheel     71408  6 Jun 09:37 afida
+-rwxr-xr-x   1 root   wheel     66464  6 Jun 09:37 afinfo
+-rwxr-xr-x   1 root   wheel    162321  5 Jun 22:22 afmtodit
+-rwxr-xr-x   1 root   wheel     43936  6 Jun 09:37 afplay
+-rwxr-xr-x   1 root   wheel     26736  5 Jun 22:25 agentxtrap
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 agvtool
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 alias
+-rwxr-xr-x   1 root   wheel    100288  6 Jun 09:40 allmemory
+-rwxr-xr-x   1 root   wheel     33264  6 Jun 09:37 applesingle
+lrwxr-xr-x   1 root   wheel        82  6 Jun 14:59 appletviewer -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/appletviewer
+-rwxr-xr-x   1 root   wheel     14960  5 Jun 22:26 apply
+-rwxr-xr-x   1 root   wheel      7106  5 Jun 22:25 apr-1-config
+-r-xr-xr-x   1 root   wheel      1808  5 Jun 22:25 apropos
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 apt -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/apt
+-rwxr-xr-x   1 root   wheel      6542  5 Jun 22:25 apu-1-config
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 ar
+-rwxr-xr-x   2 root   wheel     58768  6 Jun 09:42 arch
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 as
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 asa
+-rwxr-xr-x   1 root   wheel     97440  6 Jun 09:37 asctl
+-r-sr-xr-x   4 root   wheel     75648  6 Jun 09:42 at
+-rwxr-xr-x   1 root   wheel     90960  6 Jun 09:40 atos
+-r-sr-xr-x   4 root   wheel     75648  6 Jun 09:42 atq
+-r-sr-xr-x   4 root   wheel     75648  6 Jun 09:42 atrm
+-rwxr-xr-x   1 root   wheel     25568  6 Jun 09:41 atsutil
+-rwxr-xr-x   1 root   wheel     35600  5 Jun 22:24 automator
+-r-xr-xr-x   1 root   wheel       200  6 Jun 09:37 auval
+-rwxr-xr-x   1 root   wheel    264384  6 Jun 09:37 auvaltool
+-rwxr-xr-x   1 root   wheel     87696  5 Jun 22:24 avconvert
+-rwxr-xr-x   1 root   wheel     30432  6 Jun 09:36 avmetareadwrite
+-rwxr-xr-x   1 root   wheel    108208  5 Jun 22:08 awk
+-rwxr-xr-x   1 root   wheel     27072  5 Jun 22:08 banner
+-rwxr-xr-x   1 root   wheel     19504  5 Jun 22:24 base64
+-rwxr-xr-x   1 root   wheel     14368  5 Jun 22:26 basename
+-r-xr-xr-x   1 root   wheel      6574  5 Jun 22:25 bashbug
+-r-sr-xr-x   4 root   wheel     75648  6 Jun 09:42 batch
+-rwxr-xr-x   1 root   wheel     77168  5 Jun 22:25 bc
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 bg
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:25 biff
+-rwxr-xr-x   1 root   wheel     41904  6 Jun 09:37 binhex
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 bison
+-rwxr-xr-x   1 root   wheel      1958  5 Jun 22:25 bitesize.d
+-rwxr-xr-x   1 root   wheel     66992  5 Jun 22:08 bsdtar
+-rwxr-xr-x   1 root   wheel     14800  5 Jun 22:25 bspatch
+-rwxr-xr-x   1 root   wheel      8700  5 Jun 22:25 btmmdiagnose
+-rwxr-xr-x   1 root   wheel       511  2 Jul 00:22 bundle
+-rwxr-xr-x   1 root   wheel       512  2 Jul 00:22 bundler
+-rwxr-xr-x   3 root   wheel     37312  5 Jun 22:25 bunzip2
+-rwxr-xr-x   3 root   wheel     37312  5 Jun 22:25 bzcat
+lrwxr-xr-x   1 root   wheel         6  5 Jun 22:25 bzcmp -> bzdiff
+-rwxr-xr-x   1 root   wheel      2101  5 Jun 22:25 bzdiff
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 bzegrep
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 bzfgrep
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 bzgrep
+-rwxr-xr-x   3 root   wheel     37312  5 Jun 22:25 bzip2
+-rwxr-xr-x   1 root   wheel     18848  5 Jun 22:25 bzip2recover
+lrwxr-xr-x   1 root   wheel         6  5 Jun 22:25 bzless -> bzmore
+-rwxr-xr-x   1 root   wheel      1259  5 Jun 22:25 bzmore
+lrwxr-xr-x   1 root   wheel         7  5 Jun 22:24 c++ -> clang++
+-rwxr-xr-x   1 root   wheel    434224  5 Jun 22:25 c++filt
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 c2ph
+-rwxr-xr-x   1 root   wheel     36636  5 Jun 22:25 c2ph5.12
+-rwxr-xr-x   1 root   wheel     36642  5 Jun 22:25 c2ph5.16
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 c89
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 c99
+-rwxr-xr-x   1 root   wheel      3676  5 Jun 22:10 c_rehash
+-rwxr-xr-x   1 root   wheel     15936  6 Jun 09:40 caffeinate
+-r-xr-xr-x   1 root   wheel     27856  5 Jun 22:25 cal
+-r-xr-xr-x   1 root   wheel     25504  5 Jun 22:25 calendar
+-r-xr-xr-x   1 root   wheel     20512  6 Jun 09:41 cancel
+-rwxr-xr-x   1 root   wheel     14720  5 Jun 22:25 cap_mkdb
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:25 captoinfo -> tic
+lrwxr-xr-x   1 root   wheel         5  5 Jun 22:24 cc -> clang
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 cd
+-rwxr-xr-x   1 root   wheel     86064  6 Jun 09:42 certtool
+-rwxr-xr-x   1 root   wheel     22896  5 Jun 22:25 checknr
+lrwxr-xr-x   1 root   wheel        24  1 May 15:39 chef-apply -> /opt/chef/bin/chef-apply
+lrwxr-xr-x   1 root   wheel        25  1 May 15:39 chef-client -> /opt/chef/bin/chef-client
+lrwxr-xr-x   1 root   wheel        24  1 May 15:39 chef-shell -> /opt/chef/bin/chef-shell
+lrwxr-xr-x   1 root   wheel        23  1 May 15:39 chef-solo -> /opt/chef/bin/chef-solo
+-rwxr-xr-x   1 root   wheel     14752  5 Jun 22:08 chflags
+-rwxr-xr-x   3 root   wheel     65856  6 Jun 09:42 chfn
+-rwxr-xr-x   1 root   wheel     19296  5 Jun 22:22 chgrp
+-rwxr-xr-x   3 root   wheel     65856  6 Jun 09:42 chpass
+-rwxr-xr-x   3 root   wheel     65856  6 Jun 09:42 chsh
+-rwxr-xr-x   1 root   wheel     18720  5 Jun 22:08 cksum
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 clang
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 clang++
+-rwxr-xr-x   1 root   wheel     14096  5 Jun 22:25 clear
+-rwxr-xr-x   1 root   wheel     28624  5 Jun 22:25 cmp
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 cmpdylib
+-rwxr-xr-x   1 root   wheel     86032  6 Jun 09:42 codesign
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 codesign_allocate
+-rwxr-xr-x   1 root   wheel     18896  5 Jun 22:08 col
+-rwxr-xr-x   1 root   wheel     14576  5 Jun 22:25 colcrt
+-rwxr-xr-x   1 root   wheel     53424  5 Jun 22:25 colldef
+-rwxr-xr-x   1 root   wheel     14512  5 Jun 22:08 colrm
+-rwxr-xr-x   1 root   wheel     19440  5 Jun 22:08 column
+-rwxr-xr-x   1 root   wheel     14592  5 Jun 22:08 comm
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 command
+-rwxr-xr-x   2 root   wheel     23664  5 Jun 22:25 compress
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 config_data
+-rwxr-xr-x   1 root   wheel      7376  5 Jun 22:25 config_data5.12
+-rwxr-xr-x   1 root   wheel      7266  5 Jun 22:25 config_data5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 corelist
+-rwxr-xr-x   1 root   wheel      7536  5 Jun 22:25 corelist5.12
+-rwxr-xr-x   1 root   wheel     10292  5 Jun 22:25 corelist5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 cpan
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 cpan2dist
+-rwxr-xr-x   1 root   wheel     22444  5 Jun 22:25 cpan2dist5.12
+-rwxr-xr-x   1 root   wheel     21859  5 Jun 22:25 cpan2dist5.16
+-rwxr-xr-x   1 root   wheel      5129  5 Jun 22:25 cpan5.12
+-rwxr-xr-x   1 root   wheel      5129  5 Jun 22:25 cpan5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 cpanp
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 cpanp-run-perl
+-rwxr-xr-x   1 root   wheel       580  5 Jun 22:25 cpanp-run-perl5.12
+-rwxr-xr-x   1 root   wheel       580  5 Jun 22:25 cpanp-run-perl5.16
+-rwxr-xr-x   1 root   wheel      3433  5 Jun 22:25 cpanp5.12
+-rwxr-xr-x   1 root   wheel      3433  5 Jun 22:25 cpanp5.16
+-rwxr-xr-x   1 root   wheel     39056  5 Jun 22:08 cpio
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 cpp
+-rwxr-xr-x   1 root   wheel      1402  5 Jun 22:25 cpu_profiler.d
+-rwxr-xr-x   1 root   wheel      1540  5 Jun 22:25 cpuwalk.d
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 crc32
+-r-xr-xr-x   1 root   wheel       798  5 Jun 22:24 crc325.12
+-r-xr-xr-x   1 root   wheel       798  5 Jun 22:24 crc325.16
+-rwxr-xr-x   1 root   wheel       342  5 Jun 22:25 creatbyproc.d
+-rwxr-xr-x   1 root   wheel     30992  6 Jun 09:42 crlrefresh
+-rwsr-xr-x   1 root   wheel     35136  5 Jun 22:25 crontab
+-rwxr-xr-x   1 root   wheel     20000  5 Jun 22:08 csplit
+-rwxr-xr-x   1 root   wheel     33696  6 Jun 09:42 csreq
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 ctags
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 ctf_insert
+-r-xr-xr-x   1 _uucp  wheel    128944  5 Jun 22:26 cu
+-rwxr-xr-x   1 root   wheel     80816 25 Aug  2009 cups-calibrate
+-r-xr-xr-x   1 root   wheel      3192  6 Jun 09:41 cups-config
+-r-xr-xr-x   1 root   wheel     19872  6 Jun 09:41 cupstestdsc
+-r-xr-xr-x   1 root   wheel     60128  6 Jun 09:41 cupstestppd
+-rwxr-xr-x   1 root   wheel    147328  6 Jun 09:41 curl
+-rwxr-xr-x   1 root   wheel      4048  5 Jun 22:25 curl-config
+-rwxr-xr-x   1 root   wheel     19712  5 Jun 22:08 cut
+lrwxr-xr-x   1 root   wheel        59  5 Jun 22:25 cvaffinity -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvaffinity
+lrwxr-xr-x   1 root   wheel        53  5 Jun 22:25 cvcp -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvcp
+lrwxr-xr-x   1 root   wheel        56  5 Jun 22:25 cvmkdir -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvmkdir
+lrwxr-xr-x   1 root   wheel        57  5 Jun 22:25 cvmkfile -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvmkfile
+-rwxr-xr-x   1 root   wheel      7155  5 Jun 22:25 dappprof
+-rwxr-xr-x   1 root   wheel      7870  5 Jun 22:25 dapptrace
+-rwxr-xr-x   1 root   wheel    235200  5 Jun 22:25 darwinup
+-r-xr-xr-x   1 root   wheel   2119008  5 Jun 22:24 db_archive
+-r-xr-xr-x   1 root   wheel   2123152  5 Jun 22:24 db_checkpoint
+-r-xr-xr-x   1 root   wheel   2147696  5 Jun 22:24 db_codegen
+-r-xr-xr-x   1 root   wheel   2123152  5 Jun 22:24 db_deadlock
+-r-xr-xr-x   1 root   wheel   2127344  5 Jun 22:24 db_dump
+-r-xr-xr-x   1 root   wheel   2135632  5 Jun 22:24 db_hotbackup
+-r-xr-xr-x   1 root   wheel   2144192  5 Jun 22:24 db_load
+-r-xr-xr-x   1 root   wheel   2194480  5 Jun 22:24 db_printlog
+-r-xr-xr-x   1 root   wheel   2123248  5 Jun 22:24 db_recover
+-r-xr-xr-x   1 root   wheel   2123104  5 Jun 22:24 db_stat
+-r-xr-xr-x   1 root   wheel   2119008  5 Jun 22:24 db_upgrade
+-r-xr-xr-x   1 root   wheel   2123120  5 Jun 22:24 db_verify
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 dbicadmin
+-r-xr-xr-x   1 root   wheel      6911  5 Jun 22:24 dbicadmin5.12
+-r-xr-xr-x   1 root   wheel      7078  5 Jun 22:24 dbicadmin5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 dbilogstrip
+-r-xr-xr-x   1 root   wheel      1469  5 Jun 22:24 dbilogstrip5.12
+-r-xr-xr-x   1 root   wheel      1469  5 Jun 22:24 dbilogstrip5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 dbiprof
+-r-xr-xr-x   1 root   wheel      6305  5 Jun 22:24 dbiprof5.12
+-r-xr-xr-x   1 root   wheel      6305  5 Jun 22:24 dbiprof5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 dbiproxy
+-r-xr-xr-x   1 root   wheel      5486  5 Jun 22:24 dbiproxy5.12
+-r-xr-xr-x   1 root   wheel      5486  5 Jun 22:24 dbiproxy5.16
+-rwxr-xr-x   1 root   wheel     46272  5 Jun 22:25 dc
+-rwxr-xr-x   1 root   wheel     35424  6 Jun 09:38 defaults
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 desdp
+-rwxr-xr-x   1 root   wheel    101280  5 Jun 22:25 diff
+-rwxr-xr-x   1 root   wheel     33024  5 Jun 22:25 diff3
+-rwxr-xr-x   1 root   wheel     37056  5 Jun 22:25 diffstat
+-rwxr-xr-x   1 root   wheel   3270768  5 Jun 22:08 dig
+-rwxr-xr-x   1 root   wheel     14144  5 Jun 22:26 dirname
+-rwxr-xr-x   1 root   wheel      2517  5 Jun 22:25 diskhits
+-rwxr-xr-x   1 root   wheel      1290  5 Jun 22:25 dispqlen.d
+-rwxr-xr-x   1 root   wheel     30304  5 Jun 22:07 ditto
+-rwxr-xr-x   1 root   wheel     49008  6 Jun 09:41 dns-sd
+-rwxr-xr-x   1 root   wheel     15408  6 Jun 09:41 dnsctl
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 dprofpp
+-rwxr-xr-x   1 root   wheel     24124  5 Jun 22:25 dprofpp5.12
+-rwxr-xr-x   1 root   wheel    268192  5 Jun 22:07 drutil
+-rwxr-xr-x   1 root   wheel     30544  5 Jun 22:24 dscacheutil
+-rwxr-xr-x   1 root   wheel    194496  5 Jun 22:24 dscl
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 dserr
+-rwxr-xr-x   1 root   wheel     29776  5 Jun 22:24 dsexport
+-rwxr-xr-x   1 root   wheel     80208  5 Jun 22:24 dsimport
+-rwxr-xr-x   1 root   wheel     23760  5 Jun 22:24 dsmemberutil
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 dsymutil
+-rwxr-xr-x   1 root   wheel     19905  5 Jun 22:25 dtruss
+-rwxr-xr-x   1 root   wheel     19600  5 Jun 22:25 du
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 dwarfdump
+-rwxr-xr-x   2 root   wheel       925  5 Jun 22:26 easy_install
+-rwxr-xr-x   1 root   wheel       421  5 Jun 22:26 easy_install-2.5
+-rwxr-xr-x   1 root   wheel       454  5 Jun 22:26 easy_install-2.6
+-rwxr-xr-x   1 root   wheel       454  5 Jun 22:26 easy_install-2.7
+lrwxr-xr-x   1 root   wheel        52 31 Oct  2012 edit -> /Applications/TextWrangler.app/Contents/Helpers/edit
+-rwxr-xr-x   1 root   wheel    120192  5 Jun 22:22 efax
+-rwxr-xr-x   1 root   wheel     54880  5 Jun 22:22 efix
+-rwxr-xr-x   3 root   wheel     30096  5 Jun 22:22 egrep
+-r-xr-xr-x   1 root   wheel  11832736  6 Jun 09:41 emacs
+-rwxr-xr-x   1 root   wheel   3160352  5 Jun 22:25 emacs-undumped
+-rwxr-xr-x   1 root   wheel     28928  5 Jun 22:25 emacsclient
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 enc2xs
+-rwxr-xr-x   1 root   wheel     39189  5 Jun 22:25 enc2xs5.12
+-rwxr-xr-x   1 root   wheel     39189  5 Jun 22:25 enc2xs5.16
+-rwxr-xr-x   1 root   wheel     25408  5 Jun 22:25 encode_keychange
+-rwxr-xr-x   1 root   wheel     14304  5 Jun 22:26 env
+-rwxr-xr-x   1 root   wheel    143840  5 Jun 22:22 eqn
+-rwxr-xr-x   1 root   wheel      2680  5 Jun 22:22 eqn2graph
+-r-xr-xr-x   1 root   wheel      4447  6 Jun 09:42 erb
+-rwxr-xr-x   1 root   wheel      4349  5 Jun 22:25 errinfo
+-rwxr-xr-x   1 root   wheel       508  2 Jul 00:22 erubis
+-rwxr-xr-x   1 root   wheel    211840 25 Aug  2009 escputil
+-rwxr-xr-x   1 root   wheel    103056  5 Jun 22:25 etags
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:26 ex -> vim
+-rwxr-xr-x   1 root   wheel      5149  5 Jun 22:25 execsnoop
+-rwxr-xr-x   1 root   wheel     14592  5 Jun 22:08 expand
+-r-xr-xr-x   1 root   wheel     43552  5 Jun 22:26 expect
+lrwxr-xr-x   1 root   wheel        78  6 Jun 14:59 extcheck -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/extcheck
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 eyapp
+-r-xr-xr-x   1 root   wheel     12841  5 Jun 22:24 eyapp5.12
+-r-xr-xr-x   1 root   wheel     12841  5 Jun 22:24 eyapp5.16
+-rwxr-xr-x   1 root   wheel     13808  5 Jun 22:24 false
+-rwxr-xr-x   1 root   wheel     28530  5 Jun 22:22 fax
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 fc
+-rwxr-xr-x   1 root   wheel      2668  5 Jun 22:25 fddist
+-rwxr-xr-x   1 root   wheel    106720  6 Jun 09:40 fdesetup
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 fg
+-rwxr-xr-x   3 root   wheel     30096  5 Jun 22:22 fgrep
+-rwxr-xr-x   1 root   wheel    205568  5 Jun 22:25 file
+-rwxr-xr-x   1 root   wheel       272  5 Jun 22:25 filebyproc.d
+-rwxr-xr-x   1 root   wheel     47744  6 Jun 09:40 filtercalltree
+-rwxr-xr-x   1 root   wheel     47680  5 Jun 22:08 find
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 find2perl
+-rwxr-xr-x   1 root   wheel     23634  5 Jun 22:25 find2perl5.12
+-rwxr-xr-x   1 root   wheel     23634  5 Jun 22:25 find2perl5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 findrule
+-r-xr-xr-x   1 root   wheel      3418  5 Jun 22:24 findrule5.12
+-r-xr-xr-x   1 root   wheel      3418  5 Jun 22:24 findrule5.16
+-rwxr-xr-x   1 root   wheel     29872  5 Jun 22:08 finger
+-rwxr-xr-x   1 root   wheel     15523  5 Jun 22:25 fixproc
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 flex
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 flex++
+-rwxr-xr-x   1 root   wheel     19200  5 Jun 22:08 fmt
+-rwxr-xr-x   1 root   wheel     14816  5 Jun 22:08 fold
+lrwxr-xr-x   1 root   wheel       126  5 Jun 22:10 fontrestore -> ../../System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontmover
+-rwxr-xr-x   1 root   wheel     23936  6 Jun 09:40 footprint
+-rwxr-xr-x   1 root   wheel     37808  5 Jun 22:25 formail
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 format-sql
+-r-xr-xr-x   1 root   wheel       421  5 Jun 22:24 format-sql5.12
+-r-xr-xr-x   1 root   wheel       448  5 Jun 22:24 format-sql5.16
+-rwxr-xr-x   1 root   wheel     14768  5 Jun 22:25 from
+-rwxr-xr-x   1 root   wheel    123504  6 Jun 09:42 fs_usage
+-r-xr-xr-x   1 root   wheel    149184  5 Jun 22:25 ftp
+-rwxr-xr-x   1 root   wheel     31904  5 Jun 22:26 funzip
+-r-xr-xr-x   1 root   wheel      2610  5 Jun 22:25 fuser
+-rwxr-xr-x   1 root   wheel     30160  5 Jun 22:24 fwkdp
+-rwxr-xr-x   1 root   wheel     38480  5 Jun 22:24 fwkpfv
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 g++
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 gatherheaderdoc
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 gcc
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 gcov
+-rwxr-xr-x   1 root   wheel      7198  5 Jun 22:22 gdiffmk
+-r-xr-xr-x   1 root   wheel       596  6 Jun 09:42 gem
+-r-xr-xr-x   1 root   wheel     80290  5 Jun 22:24 gen_bridge_metadata
+-rwxr-xr-x   1 root   wheel     23504  5 Jun 22:25 gencat
+-rwxr-xr-x   1 root   wheel     36544  5 Jun 22:24 genstrings
+-rwxr-xr-x   1 root   wheel     55696  6 Jun 09:42 getconf
+-rwxr-xr-x   1 root   wheel     14016  5 Jun 22:08 getopt
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 getopts
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 git
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 git-cvsserver
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 git-receive-pack
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 git-shell
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 git-upload-archive
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 git-upload-pack
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 gm4
+-rwxr-xr-x   1 root   wheel       849  5 Jun 22:25 gnuattach
+-rwxr-xr-x   1 root   wheel     29104  5 Jun 22:25 gnuclient
+-rwxr-xr-x   1 root   wheel      1039  5 Jun 22:25 gnudoit
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 gnumake
+-rwxr-xr-x   1 root   wheel     24976  5 Jun 22:25 gnuserv
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 gperf
+-rwxr-xr-x   1 root   wheel      2431  5 Jun 22:22 grap2graph
+-rwxr-xr-x   3 root   wheel     30096  5 Jun 22:22 grep
+-rwxr-xr-x   1 root   wheel     64064  5 Jun 22:22 grn
+-rwxr-xr-x   1 root   wheel     79152  5 Jun 22:22 grodvi
+-rwxr-xr-x   1 root   wheel     64128  5 Jun 22:22 groff
+-rwxr-xr-x   1 root   wheel      7074  5 Jun 22:22 groffer
+-rwxr-xr-x   1 root   wheel      2471  5 Jun 22:22 grog
+-rwxr-xr-x   1 root   wheel     82880  5 Jun 22:22 grolbp
+-rwxr-xr-x   1 root   wheel     78752  5 Jun 22:22 grolj4
+-rwxr-xr-x   1 root   wheel    112480  5 Jun 22:22 grops
+-rwxr-xr-x   1 root   wheel     79008  5 Jun 22:22 grotty
+-rwxr-xr-x   3 root   wheel     19264  5 Jun 22:24 groups
+-rwxr-xr-x   4 root   wheel     43200  5 Jun 22:25 gunzip
+-rwxr-xr-x   4 root   wheel     43200  5 Jun 22:25 gzcat
+-rwxr-xr-x   1 root   wheel      4085  5 Jun 22:25 gzexe
+-rwxr-xr-x   4 root   wheel     43200  5 Jun 22:25 gzip
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 h2ph
+-rwxr-xr-x   1 root   wheel     28193  5 Jun 22:25 h2ph5.12
+-rwxr-xr-x   1 root   wheel     28167  5 Jun 22:25 h2ph5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 h2xs
+-rwxr-xr-x   1 root   wheel     60595  5 Jun 22:25 h2xs5.12
+-rwxr-xr-x   1 root   wheel     60600  5 Jun 22:25 h2xs5.16
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 hash
+-rwxr-xr-x   1 root   wheel     13936  6 Jun 09:38 hdid
+-rwxr-xr-x   1 root   wheel    341264  6 Jun 09:38 hdiutil
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 hdxml2manxml
+-rwxr-xr-x   1 root   wheel     14928  5 Jun 22:08 head
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 headerdoc2html
+-rwxr-xr-x   1 root   wheel    102560  6 Jun 09:40 heap
+-rwxr-xr-x   2 root   wheel     28816  5 Jun 22:26 hexdump
+-rwxr-xr-x   1 root   wheel     83584  5 Jun 22:24 hiutil
+-rwxr-xr-x   1 root   wheel   3237792  5 Jun 22:08 host
+-rwxr-xr-x   1 root   wheel     34976  6 Jun 09:42 hostinfo
+-rwxr-xr-x   1 root   wheel      1939  5 Jun 22:25 hotspot.d
+-rwxr-xr-x   1 root   wheel    118240  5 Jun 22:22 hpftodit
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 htmltree
+-r-xr-xr-x   1 root   wheel      1177  5 Jun 22:24 htmltree5.12
+-r-xr-xr-x   1 root   wheel      1177  5 Jun 22:24 htmltree5.16
+-rwxr-xr-x   1 root   wheel      2523  5 Jun 22:25 httpdstat.d
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 ibtool
+-rwxr-xr-x   1 root   wheel    143344  5 Jun 22:25 iconutil
+-rwxr-xr-x   1 root   wheel     28240  5 Jun 22:25 iconv
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 ictool
+-rwxr-xr-x   3 root   wheel     19264  5 Jun 22:24 id
+-rwxr-xr-x   5 root   wheel       925  5 Jun 22:26 idle
+lrwxr-xr-x   1 root   wheel        73  5 Jun 22:26 idle2.5 -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/idle2.5
+lrwxr-xr-x   1 root   wheel        73  5 Jun 22:26 idle2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/idle2.6
+lrwxr-xr-x   1 root   wheel        73  5 Jun 22:26 idle2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/idle2.7
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 idlj -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/idlj
+-rwxr-xr-x   1 root   wheel      8220  5 Jun 22:25 imptrace
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 indent
+-rwxr-xr-x   1 root   wheel     40224  5 Jun 22:22 indxbib
+-rwxr-xr-x   1 root   wheel    170784  5 Jun 22:26 info
+-rwxr-xr-x   1 root   wheel     50736  5 Jun 22:25 infocmp
+-rwxr-xr-x   1 root   wheel     51376  5 Jun 22:26 infokey
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:25 infotocap -> tic
+-rwxr-xr-x   1 root   wheel     24544  5 Jun 22:25 install
+-rwxr-xr-x   1 root   wheel     55904  5 Jun 22:26 install-info
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 install_name_tool
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 instmodsh
+-rwxr-xr-x   1 root   wheel      4288  5 Jun 22:25 instmodsh5.12
+-rwxr-xr-x   1 root   wheel      4288  5 Jun 22:25 instmodsh5.16
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 instruments
+-rwxr-xr-x   1 root   wheel      1976  5 Jun 22:25 iofile.d
+-rwxr-xr-x   1 root   wheel      1573  5 Jun 22:25 iofileb.d
+-rwxr-xr-x   1 root   wheel      6615  5 Jun 22:25 iopattern
+-rwxr-xr-x   1 root   wheel      5943  5 Jun 22:25 iopending
+-rwxr-xr-x   1 root   wheel     12135  5 Jun 22:25 iosnoop
+-rwxr-xr-x   1 root   wheel     11885  5 Jun 22:25 iotop
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 ip2cc
+-r-xr-xr-x   1 root   wheel      2116  5 Jun 22:24 ip2cc5.12
+-r-xr-xr-x   1 root   wheel      2116  5 Jun 22:24 ip2cc5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 ipcount
+-r-xr-xr-x   1 root   wheel      3728  5 Jun 22:24 ipcount5.12
+-r-xr-xr-x   1 root   wheel      3728  5 Jun 22:24 ipcount5.16
+-rwxr-xr-x   1 root   wheel     14576  5 Jun 22:25 ipcrm
+-rws--x--x   1 root   wheel     23008  5 Jun 22:25 ipcs
+-rwxr-xr-x   1 root   wheel    301520  5 Jun 22:07 ipmitool
+-r-xr-xr-x   1 root   wheel     39760  6 Jun 09:41 ippfind
+-r-xr-xr-x   1 root   wheel     75152  6 Jun 09:41 ipptool
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 iprofiler
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 iptab
+-r-xr-xr-x   1 root   wheel       986  5 Jun 22:24 iptab5.12
+-r-xr-xr-x   1 root   wheel       986  5 Jun 22:24 iptab5.16
+-r-xr-xr-x   1 root   wheel       368  6 Jun 09:42 irb
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 jar -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jar
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 jarsigner -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jarsigner
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 java -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 javac -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javac
+lrwxr-xr-x   1 root   wheel        77  6 Jun 14:59 javadoc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javadoc
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 javah -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javah
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 javap -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javap
+lrwxr-xr-x   1 root   wheel        76  6 Jun 14:59 javaws -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javaws
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 jcmd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jcmd
+lrwxr-xr-x   1 root   wheel        78  6 Jun 14:59 jconsole -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jconsole
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 jdb -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jdb
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 jhat -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jhat
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 jinfo -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jinfo
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 jmap -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jmap
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 jmc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jmc
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 jobs
+-rwxr-xr-x   1 root   wheel     19504  5 Jun 22:08 join
+-rwxr-xr-x   1 root   wheel     19088  5 Jun 22:26 jot
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 jps -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jps
+lrwxr-xr-x   1 root   wheel        80  6 Jun 14:59 jrunscript -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jrunscript
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 jsadebugd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jsadebugd
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 json_pp
+-rwxr-xr-x   1 root   wheel      3953  5 Jun 22:25 json_pp5.16
+lrwxr-xr-x   1 root   wheel        76  6 Jun 14:59 jstack -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstack
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 jstat -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstat
+lrwxr-xr-x   1 root   wheel        76  6 Jun 14:59 jstatd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstatd
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 jvisualvm -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jvisualvm
+-rwxr-xr-x   1 root   wheel     46256  6 Jun 09:39 kcc
+-rwxr-xr-x   1 root   wheel     25152  6 Jun 09:39 kdestroy
+-rwxr-xr-x   1 root   wheel    138240  6 Jun 09:41 kextutil
+lrwxr-xr-x   1 root   wheel        77  6 Jun 14:59 keytool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/keytool
+-rwxr-xr-x   1 root   wheel     26096  6 Jun 09:39 kgetcred
+-rwxr-xr-x   1 root   wheel      1621  5 Jun 22:25 kill.d
+-rwxr-xr-x   1 root   wheel     19984  5 Jun 22:26 killall
+-rwxr-xr-x   1 root   wheel     40064  6 Jun 09:39 kinit
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:24 klist -> kcc
+lrwxr-xr-x   1 root   wheel        19  1 May 15:39 knife -> /opt/chef/bin/knife
+-rwxr-xr-x   1 root   wheel     26288  6 Jun 09:39 kpasswd
+-rwxr-xr-x   1 root   wheel      3274  5 Jun 22:24 krb5-config
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:24 kswitch -> kcc
+-rwxr-xr-x   1 root   wheel     14624  5 Jun 22:08 lam
+-rwxr-xr-x   1 root   wheel     19408  5 Jun 22:25 last
+-rwxr-xr-x   1 root   wheel     14992  5 Jun 22:26 lastcomm
+-rwxr-xr-x   1 root   wheel      2302  5 Jun 22:25 lastwords
+-rwxr-xr-x   1 root   wheel     94608  6 Jun 09:42 latency
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 ld
+lrwxr-xr-x   1 root   wheel        10  5 Jun 22:25 ldapadd -> ldapmodify
+-rwxr-xr-x   1 root   wheel    301408  6 Jun 09:40 ldapcompare
+-rwxr-xr-x   1 root   wheel    301296  6 Jun 09:40 ldapdelete
+-rwxr-xr-x   1 root   wheel    301360  6 Jun 09:40 ldapexop
+-rwxr-xr-x   1 root   wheel    313968  6 Jun 09:40 ldapmodify
+-rwxr-xr-x   1 root   wheel    301392  6 Jun 09:40 ldapmodrdn
+-rwxr-xr-x   1 root   wheel    301280  6 Jun 09:40 ldappasswd
+-rwxr-xr-x   1 root   wheel    334112  6 Jun 09:40 ldapsearch
+-rwxr-xr-x   1 root   wheel    251984  6 Jun 09:40 ldapurl
+-rwxr-xr-x   1 root   wheel    301312  6 Jun 09:40 ldapwhoami
+-rwxr-xr-x   1 root   wheel     98320  6 Jun 09:40 leaks
+-r-xr-xr-x   1 root   wheel     14400  5 Jun 22:25 leave
+-rwxr-xr-x   2 root   wheel    121216  5 Jun 22:08 less
+-rwxr-xr-x   1 root   wheel     14336  5 Jun 22:25 lessecho
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 lex
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 libnetcfg
+-rwxr-xr-x   1 root   wheel     15759  5 Jun 22:25 libnetcfg5.12
+-rwxr-xr-x   1 root   wheel     15759  5 Jun 22:25 libnetcfg5.16
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 libtool
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 lipo
+-rwxr-xr-x   1 root   wheel     46480  5 Jun 22:22 lkbib
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 lldb
+lrwxr-xr-x   1 root   wheel         7  5 Jun 22:24 llvm-g++ -> clang++
+lrwxr-xr-x   1 root   wheel         5  5 Jun 22:24 llvm-gcc -> clang
+-rwxr-xr-x   1 root   wheel      1936  5 Jun 22:25 loads.d
+-rwxr-xr-x   1 root   wheel     69664  5 Jun 22:25 locale
+-rwxr-xr-x   1 root   wheel     30189  5 Jun 22:25 localedef
+-rwxr-xr-x   1 root   wheel     19424  5 Jun 22:26 locate
+-rwxr-sr-x   1 root   mail      24640  5 Jun 22:25 lockfile
+-r-xr-xr-x   1 root   wheel     14832  6 Jun 09:42 logger
+-r-sr-xr-x   1 root   wheel     68240  6 Jun 09:42 login
+-rwxr-xr-x   1 root   wheel     14192  5 Jun 22:26 logname
+-rwxr-xr-x   1 root   wheel     14816  5 Jun 22:08 look
+-rwxr-xr-x   1 root   wheel     46720  5 Jun 22:22 lookbib
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 lorder
+-r-xr-xr-x   1 root   wheel     25184  6 Jun 09:41 lp
+-r-xr-xr-x   1 root   wheel     20960  6 Jun 09:41 lpoptions
+-r-xr-xr-x   1 root   wheel     20800  6 Jun 09:41 lppasswd
+-r-xr-xr-x   1 root   wheel     20992  6 Jun 09:41 lpq
+-r-xr-xr-x   1 root   wheel     20736  6 Jun 09:41 lpr
+-r-xr-xr-x   1 root   wheel     15376  6 Jun 09:41 lprm
+-r-xr-xr-x   1 root   wheel     33808  6 Jun 09:41 lpstat
+-rwxr-xr-x   1 root   wheel    282544  6 Jun 09:39 lsappinfo
+-rwxr-xr-x   1 root   wheel     25280  5 Jun 22:11 lsbom
+-rwxr-xr-x   1 root   wheel     49184  5 Jun 22:24 lsm
+-rwxr-xr-x   1 root   wheel     14336  5 Jun 22:25 lsvfs
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 lwp-download
+-r-xr-xr-x   1 root   wheel      8639  5 Jun 22:24 lwp-download5.12
+-r-xr-xr-x   1 root   wheel      8639  5 Jun 22:24 lwp-download5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 lwp-dump
+-r-xr-xr-x   1 root   wheel      2802  5 Jun 22:24 lwp-dump5.12
+-r-xr-xr-x   1 root   wheel      2802  5 Jun 22:24 lwp-dump5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 lwp-mirror
+-r-xr-xr-x   1 root   wheel      2481  5 Jun 22:24 lwp-mirror5.12
+-r-xr-xr-x   1 root   wheel      2481  5 Jun 22:24 lwp-mirror5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 lwp-request
+-r-xr-xr-x   1 root   wheel     15063  5 Jun 22:24 lwp-request5.12
+-r-xr-xr-x   1 root   wheel     15063  5 Jun 22:24 lwp-request5.16
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 m4
+-rwxr-xr-x   1 root   wheel     38192  6 Jun 09:37 macbinary
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 macerror
+-r-xr-xr-x   1 root   wheel       712  5 Jun 22:24 macerror5.12
+-r-xr-xr-x   1 root   wheel       728  5 Jun 22:24 macerror5.16
+-rwxr-xr-x   2 root   wheel     58768  6 Jun 09:42 machine
+-rwxr-xr-x   2 root   wheel     81472  5 Jun 22:25 mail
+lrwxr-xr-x   1 root   wheel        16  5 Jun 22:25 mailq -> ../sbin/sendmail
+-rwxr-xr-x   1 root   wheel      5859  5 Jun 22:25 mailstat
+-rwxr-xr-x   2 root   wheel     81472  5 Jun 22:25 mailx
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 make
+-rwxr-xr-x   1 root   wheel    238480  5 Jun 22:26 makeinfo
+-rwxr-xr-x   1 root   wheel    121840  6 Jun 09:40 malloc_history
+-r-xr-xr-x   1 root   wheel     66144  5 Jun 22:08 man
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:25 manpath -> man
+lrwxr-xr-x   1 root   wheel        66 16 Feb  2012 mate -> /Applications/TextMate.app/Contents/SharedSupport/Support/bin/mate
+-rwxr-xr-x   1 root   wheel     72672  6 Jun 09:40 mcxquery
+-rwxr-xr-x   1 root   wheel     19664  6 Jun 09:40 mcxrefresh
+-rwxr-xr-x   1 root   wheel    142112  6 Jun 09:41 mddiagnose
+-rwxr-xr-x   1 root   wheel     25776  6 Jun 09:41 mdfind
+-rwxr-xr-x   1 root   wheel    243952  6 Jun 09:41 mdimport
+-rwxr-xr-x   1 root   wheel    246480  6 Jun 09:41 mdimport32
+-rwxr-xr-x   1 root   wheel     20464  6 Jun 09:41 mdls
+-rwxr-xr-x   1 root   wheel     68528  6 Jun 09:41 mdutil
+-rwxr-xr-x   1 root   wheel    153968  5 Jun 22:25 memcached
+-rwxr-xr-x   1 root   wheel     60592  6 Jun 09:42 memory_pressure
+-r-xr-xr-x   1 root   wheel     14208  5 Jun 22:25 mesg
+-rwxr-xr-x   1 root   wheel     43563  5 Jun 22:25 mib2c
+-rwxr-xr-x   1 root   wheel      8829  5 Jun 22:25 mib2c-update
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 mig
+-rwxr-xr-x   1 root   wheel     16000  5 Jun 22:24 mkbom
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 mkdep
+-rwxr-xr-x   1 root   wheel     14416  5 Jun 22:08 mkfifo
+-rwxr-xr-x   1 root   wheel     36288  5 Jun 22:25 mklocale
+-rwxr-xr-x   1 root   wheel     14640  5 Jun 22:08 mktemp
+-rwxr-xr-x   1 root   wheel      2975  5 Jun 22:22 mmroff
+-rwxr-xr-x   1 root   wheel     24976  5 Jun 22:15 mnthome
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 moose-outdated
+-r-xr-xr-x   1 root   wheel       455  5 Jun 22:24 moose-outdated5.12
+-r-xr-xr-x   1 root   wheel       455  5 Jun 22:24 moose-outdated5.16
+-rwxr-xr-x   2 root   wheel    121216  5 Jun 22:08 more
+-r-xr-xr-x   1 root   wheel      1271  5 Jun 22:25 mp2bug
+-rwxr-xr-x   1 root   wheel     25568  5 Jun 22:25 msgs
+-rwxr-xr-x   1 root   wheel    141088  5 Jun 22:25 nano
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 nasm
+lrwxr-xr-x   1 root   wheel        82  6 Jun 14:59 native2ascii -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/native2ascii
+-rwxr-xr-x   1 root   wheel     21664  6 Jun 09:38 nbdst
+-r-xr-xr-x   1 root   wheel     33856  5 Jun 22:08 nc
+-r-xr-xr-x   1 root   wheel     27856  5 Jun 22:25 ncal
+-r-xr-xr-x   1 root   wheel     14528  5 Jun 22:25 ncdestroy
+-rwxr-xr-x   1 root   wheel      4977  5 Jun 22:25 ncurses5.4-config
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 ndisasm
+-rwxr-xr-x   1 root   wheel       271  5 Jun 22:22 neqn
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 net-server
+-r-xr-xr-x   1 root   wheel      3429  5 Jun 22:24 net-server5.16
+-rwxr-xr-x   1 root   wheel     78699  5 Jun 22:25 net-snmp-cert
+-rwxr-xr-x   1 root   wheel     23642  5 Jun 22:25 net-snmp-config
+-rwxr-xr-x   1 root   wheel      3652  5 Jun 22:25 net-snmp-create-v3-user
+-rwxr-xr-x   1 root   wheel     47056  5 Jun 22:25 nettop
+lrwxr-xr-x   1 root   wheel        16  5 Jun 22:25 newaliases -> ../sbin/sendmail
+-r-sr-xr-x   1 root   wheel     44416  6 Jun 09:42 newgrp
+-rwxr-xr-x   1 root   wheel      4222  5 Jun 22:25 newproc.d
+-r-xr-xr-x   1 root   wheel     37008  5 Jun 22:25 nfsstat
+-rwxr-xr-x   1 root   wheel     14416  5 Jun 22:24 nice
+-rwxr-xr-x   1 root   wheel     19536  5 Jun 22:08 nl
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 nm
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 nmedit
+-rwxr-xr-x   1 root   wheel     14656  5 Jun 22:26 nohup
+-rwxr-xr-x   1 root   wheel     25024  5 Jun 22:18 notifyutil
+-rwxr-xr-x   1 root   wheel      2357  5 Jun 22:22 nroff
+-rwxr-xr-x   1 root   wheel   3241776  5 Jun 22:25 nslookup
+-rwxr-xr-x   1 root   wheel   3228320  5 Jun 22:25 nsupdate
+-rwxr-xr-x   1 root   wheel     54768  6 Jun 09:41 ntp-keygen
+-rwxr-xr-x   1 root   wheel    130256  6 Jun 09:41 ntpq
+-rwxr-xr-x   2 root   wheel     28816  5 Jun 22:26 od
+-rwxr-xr-x   1 root   wheel     57760  6 Jun 09:41 odutil
+lrwxr-xr-x   1 root   wheel        18  1 May 15:39 ohai -> /opt/chef/bin/ohai
+-rwxr-xr-x   1 root   wheel     93840  5 Jun 22:10 open
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 opendiff
+-rwxr-xr-x   1 root   wheel      7541  5 Jun 22:25 opensnoop
+-rwxr-xr-x   1 root   wheel    890144  5 Jun 22:07 openssl
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 orbd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/orbd
+-rwxr-xr-x   1 root   wheel     38064  6 Jun 09:37 osacompile
+-rwxr-xr-x   1 root   wheel     16160  6 Jun 09:37 osadecompile
+-rwxr-xr-x   1 root   wheel     14816  6 Jun 09:37 osalang
+-rwxr-xr-x   1 root   wheel     33456  6 Jun 09:37 osascript
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 otool
+lrwxr-xr-x   1 root   wheel        77  6 Jun 14:59 pack200 -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/pack200
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 package-stash-conflicts
+-r-xr-xr-x   1 root   wheel       491  5 Jun 22:24 package-stash-conflicts5.12
+-r-xr-xr-x   1 root   wheel       491  5 Jun 22:24 package-stash-conflicts5.16
+-rwxr-xr-x   1 root   wheel      2006  5 Jun 22:26 pagesize
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 pagestuff
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 par.pl
+-r-xr-xr-x   1 root   wheel     29540  5 Jun 22:24 par5.12.pl
+-r-xr-xr-x   1 root   wheel     29540  5 Jun 22:24 par5.16.pl
+-rwxr-xr-x   2 root   wheel     58608  5 Jun 22:24 parl
+-r-xr-xr-x   1 root   wheel   4980512  5 Jun 22:24 parl5.12
+-r-xr-xr-x   1 root   wheel   5308832  5 Jun 22:24 parl5.16
+-rwxr-xr-x   2 root   wheel     58608  5 Jun 22:24 parldyn
+-r-xr-xr-x   1 root   wheel    113360  5 Jun 22:24 parldyn5.12
+-r-xr-xr-x   1 root   wheel    112560  5 Jun 22:24 parldyn5.16
+-rwxr-xr-x   1 root   wheel     60144  6 Jun 09:42 passwd
+-rwxr-xr-x   1 root   wheel     14592  5 Jun 22:08 paste
+-rwxr-xr-x   1 root   wheel     90912  5 Jun 22:25 patch
+-rwxr-xr-x   1 root   wheel     14528  5 Jun 22:25 pathchk
+-rwxr-xr-x   1 root   wheel      2378  5 Jun 22:25 pathopens.d
+-rwxr-xr-x   1 root   wheel     20112  5 Jun 22:24 pbcopy
+-rwxr-xr-x   1 root   wheel     20112  5 Jun 22:24 pbpaste
+-rwxr-xr-x   1 root   wheel       199  5 Jun 22:25 pcap-config
+-rwxr-xr-x   1 root   wheel     14848  5 Jun 22:25 pcsctest
+-rwxr-xr-x   1 root   wheel     19344  5 Jun 22:25 pcsctool
+-rwxr-xr-x   1 root   wheel     17867  5 Jun 22:22 pdfroff
+lrwxr-xr-x   1 root   wheel        20  5 Jun 22:25 perfdiagnose -> /usr/bin/sysdiagnose
+-rwxr-xr-x   1 root   wheel     58608  5 Jun 22:08 perl
+-rwxr-xr-x   1 root   wheel     35440  5 Jun 22:25 perl5.12
+-rwxr-xr-x   1 root   wheel     35440  5 Jun 22:08 perl5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 perlbug
+-rwxr-xr-x   1 root   wheel     46074  5 Jun 22:25 perlbug5.12
+-rwxr-xr-x   1 root   wheel     41971  5 Jun 22:25 perlbug5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 perldoc
+-rwxr-xr-x   1 root   wheel       259  5 Jun 22:25 perldoc5.12
+-rwxr-xr-x   1 root   wheel       259  5 Jun 22:25 perldoc5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 perlivp
+-rwxr-xr-x   1 root   wheel     12489  5 Jun 22:25 perlivp5.12
+-rwxr-xr-x   1 root   wheel     10807  5 Jun 22:25 perlivp5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 perlthanks
+-rwxr-xr-x   1 root   wheel     46074  5 Jun 22:25 perlthanks5.12
+-rwxr-xr-x   1 root   wheel     41971  5 Jun 22:25 perlthanks5.16
+-rwxr-xr-x   1 root   wheel     19056  5 Jun 22:22 pfbtops
+-rwxr-xr-x   2 root   wheel     25648  5 Jun 22:25 pgrep
+lrwxr-xr-x   1 root   wheel         9  5 Jun 22:25 phar -> phar.phar
+-rwxr-xr-x   1 root   wheel     14817 20 Jan 16:07 phar.phar
+-rwxr-xr-x   1 root   wheel  10001104  6 Jun 09:41 php
+-rwxr-xr-x   1 root   wheel      3672  6 Jun 09:41 php-config
+-rwxr-xr-x   1 root   wheel      4508  6 Jun 09:41 phpize
+-rwxr-xr-x   1 root   wheel    224880  5 Jun 22:22 pic
+-rwxr-xr-x   1 root   wheel      3018  5 Jun 22:22 pic2graph
+lrwxr-xr-x   1 root   wheel         4  5 Jun 22:25 pico -> nano
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 piconv
+-rwxr-xr-x   1 root   wheel      7372  5 Jun 22:25 piconv5.12
+-rwxr-xr-x   1 root   wheel      7372  5 Jun 22:25 piconv5.16
+-rwxr-xr-x   1 root   wheel      1295  5 Jun 22:25 pidpersec.d
+-rwxr-xr-x   1 root   wheel     74720  5 Jun 22:24 pkgbuild
+-rwxr-xr-x   2 root   wheel     25648  5 Jun 22:25 pkill
+-rwxr-xr-x   1 root   wheel     19168  6 Jun 09:38 pl
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pl2pm
+-rwxr-xr-x   1 root   wheel      4566  5 Jun 22:25 pl2pm5.12
+-rwxr-xr-x   1 root   wheel      4566  5 Jun 22:25 pl2pm5.16
+-rwxr-xr-x   1 root   wheel     29520  6 Jun 09:41 plockstat
+-rwxr-xr-x   1 root   wheel     54160  5 Jun 22:25 pluginkit
+-rwxr-xr-x   1 root   wheel     37280  6 Jun 09:38 plutil
+-rwxr-xr-x   1 root   wheel    169376  6 Jun 09:40 pmset
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pod2html
+-rwxr-xr-x   1 root   wheel      2373  5 Jun 22:25 pod2html5.12
+-rwxr-xr-x   1 root   wheel      2073  5 Jun 22:25 pod2html5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pod2latex
+-rwxr-xr-x   1 root   wheel     10290  5 Jun 22:25 pod2latex5.12
+-rwxr-xr-x   1 root   wheel     10374  5 Jun 22:25 pod2latex5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pod2man
+-rwxr-xr-x   1 root   wheel     21269  5 Jun 22:25 pod2man5.12
+-rwxr-xr-x   1 root   wheel     11611  5 Jun 22:25 pod2man5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 pod2readme
+-r-xr-xr-x   1 root   wheel      1603  5 Jun 22:24 pod2readme5.12
+-r-xr-xr-x   1 root   wheel      1603  5 Jun 22:24 pod2readme5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pod2text
+-rwxr-xr-x   1 root   wheel      9115  5 Jun 22:25 pod2text5.12
+-rwxr-xr-x   1 root   wheel      9154  5 Jun 22:25 pod2text5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pod2usage
+-rwxr-xr-x   1 root   wheel      3377  5 Jun 22:25 pod2usage5.12
+-rwxr-xr-x   1 root   wheel      3462  5 Jun 22:25 pod2usage5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 podchecker
+-rwxr-xr-x   1 root   wheel      3734  5 Jun 22:25 podchecker5.12
+-rwxr-xr-x   1 root   wheel      3819  5 Jun 22:25 podchecker5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 podselect
+-rwxr-xr-x   1 root   wheel      2562  5 Jun 22:25 podselect5.12
+-rwxr-xr-x   1 root   wheel      2647  5 Jun 22:25 podselect5.16
+lrwxr-xr-x   1 root   wheel        80  6 Jun 14:59 policytool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/policytool
+-rwxr-xr-x   1 root   wheel    147296  5 Jun 22:22 post-grohtml
+-rwxr-xr-x   1 root   wheel       951  5 Jun 22:25 power_report.sh
+-rwxr-xr-x   1 root   wheel     65536  6 Jun 09:41 powermetrics
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 pp
+-r-xr-xr-x   1 root   wheel       152  5 Jun 22:24 pp5.12
+-r-xr-xr-x   1 root   wheel       152  5 Jun 22:24 pp5.16
+-r-xr-xr-x   1 root   wheel     22224  6 Jun 09:41 ppdc
+-r-xr-xr-x   1 root   wheel     20416  6 Jun 09:41 ppdhtml
+-r-xr-xr-x   1 root   wheel     15680  6 Jun 09:41 ppdi
+-r-xr-xr-x   1 root   wheel     21200  6 Jun 09:41 ppdmerge
+-r-xr-xr-x   1 root   wheel     20544  6 Jun 09:41 ppdpo
+-rwxr-xr-x   1 root   wheel     28192  5 Jun 22:08 pr
+-rwxr-xr-x   1 root   wheel     69792  5 Jun 22:22 pre-grohtml
+-rwxr-xr-x   1 root   wheel      1839  5 Jun 22:25 priclass.d
+-rwxr-xr-x   1 root   wheel      1836  5 Jun 22:25 pridist.d
+-rwxr-xr-x   1 root   wheel     14192  5 Jun 22:26 printenv
+-rwxr-xr-x   1 root   wheel     18992  5 Jun 22:26 printf
+-rwxr-sr-x   1 root   mail      84656  5 Jun 22:25 procmail
+-rwxr-xr-x   1 root   wheel      6344  5 Jun 22:25 procsystime
+-rwxr-xr-x   1 root   wheel    114464  5 Jun 22:24 productbuild
+-rwxr-xr-x   1 root   wheel     30960  5 Jun 22:24 productsign
+-rwxr-xr-x   1 root   wheel     74928  6 Jun 09:40 profiles
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 prove
+-rwxr-xr-x   1 root   wheel      9474  5 Jun 22:25 prove5.12
+-rwxr-xr-x   1 root   wheel     11120  5 Jun 22:25 prove5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 psed
+-rwxr-xr-x   1 root   wheel     53360  5 Jun 22:25 psed5.12
+-rwxr-xr-x   1 root   wheel     53364  5 Jun 22:25 psed5.16
+-rwxr-xr-x   1 root   wheel     20208  5 Jun 22:19 pstopdf
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 pstruct
+-rwxr-xr-x   1 root   wheel     36636  5 Jun 22:25 pstruct5.12
+-rwxr-xr-x   1 root   wheel     36642  5 Jun 22:25 pstruct5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 ptar
+-rwxr-xr-x   1 root   wheel      2823  5 Jun 22:25 ptar5.12
+-rwxr-xr-x   1 root   wheel      3015  5 Jun 22:25 ptar5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 ptardiff
+-rwxr-xr-x   1 root   wheel      2549  5 Jun 22:25 ptardiff5.12
+-rwxr-xr-x   1 root   wheel      2507  5 Jun 22:25 ptardiff5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 ptargrep
+-rwxr-xr-x   1 root   wheel      4274  5 Jun 22:25 ptargrep5.16
+-rwxr-xr-x   1 root   wheel    106800  5 Jun 22:25 pubsub
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 pwhich
+-r-xr-xr-x   1 root   wheel      3106  5 Jun 22:24 pwhich5.16
+-rwxr-xr-x   1 root   wheel     42960  5 Jun 22:24 pwpolicy
+-rwxr-xr-x   5 root   wheel       925  5 Jun 22:26 pydoc
+lrwxr-xr-x   1 root   wheel        74  5 Jun 22:26 pydoc2.5 -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/pydoc2.5
+lrwxr-xr-x   1 root   wheel        74  5 Jun 22:26 pydoc2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/pydoc2.6
+lrwxr-xr-x   1 root   wheel        74  5 Jun 22:26 pydoc2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/pydoc2.7
+-rwxr-xr-x   2 root   wheel     58608  6 Jun 09:42 python
+-rwxr-xr-x   5 root   wheel       925  5 Jun 22:26 python-config
+lrwxr-xr-x   1 root   wheel        75  5 Jun 22:26 python2.5 -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5
+lrwxr-xr-x   1 root   wheel        82  5 Jun 22:26 python2.5-config -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5-config
+lrwxr-xr-x   1 root   wheel        75  5 Jun 22:26 python2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6
+lrwxr-xr-x   1 root   wheel        82  5 Jun 22:26 python2.6-config -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6-config
+lrwxr-xr-x   1 root   wheel        75  5 Jun 22:26 python2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+lrwxr-xr-x   1 root   wheel        82  5 Jun 22:26 python2.7-config -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7-config
+-rwxr-xr-x   2 root   wheel     58608  6 Jun 09:42 pythonw
+lrwxr-xr-x   1 root   wheel        76  5 Jun 22:26 pythonw2.5 -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/pythonw2.5
+lrwxr-xr-x   1 root   wheel        76  5 Jun 22:26 pythonw2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/pythonw2.6
+lrwxr-xr-x   1 root   wheel        76  5 Jun 22:26 pythonw2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/pythonw2.7
+-rwxr-xr-x   1 root   wheel     45776  5 Jun 22:25 qc2movie
+lrwxr-xr-x   1 root   wheel       100  5 Jun 22:25 qlmanage -> ../../System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/qlmanage
+-rwxr-xr-x   1 root   wheel     51104  6 Jun 09:40 qtdefaults
+-r-sr-xr-x   1 root   wheel     19664  5 Jun 22:25 quota
+-rwxr-xr-x   1 root   wheel       502  2 Jul 00:22 rackup
+-rwxr-xr-x   1 root   wheel       513  2 Jul 00:22 rails
+-r-xr-xr-x   1 root   wheel       450  2 Jul 00:33 rake
+-rwxr-xr-x   1 root   wheel       423 15 Feb  2012 rake2thor
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 ranlib
+-r-xr-xr-x   1 root   wheel       450  2 Jul 00:43 rdoc
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 read
+-rwxr-xr-x   1 root   wheel     23472  5 Jun 22:25 readlink
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 rebase
+-rwxr-xr-x   1 root   wheel     14272  5 Jun 22:24 redo_prebinding
+-rwxr-xr-x   1 root   wheel    118192  5 Jun 22:22 refer
+-rwxr-xr-x   1 root   wheel     14320  5 Jun 22:26 renice
+lrwxr-xr-x   1 root   wheel         4  5 Jun 22:24 reset -> tset
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 resolveLinks
+-rwxr-xr-x   1 root   wheel     14416  5 Jun 22:08 rev
+-r-xr-xr-x   1 root   wheel       448  2 Jul 00:43 ri
+-r-sr-xr-x   1 root   wheel     20720  6 Jun 09:42 rlogin
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 rmic -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmic
+lrwxr-xr-x   1 root   wheel        74  6 Jun 14:59 rmid -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmid
+lrwxr-xr-x   1 root   wheel        81  6 Jun 14:59 rmiregistry -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmiregistry
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 rpcgen
+-rwxr-xr-x   1 root   wheel     18704  5 Jun 22:08 rs
+-r-sr-xr-x   1 root   wheel     19856  6 Jun 09:42 rsh
+-rwxr-xr-x   1 root   wheel    282560  5 Jun 22:26 rsync
+-r-xr-xr-x   1 root   wheel     34832  6 Jun 09:42 ruby
+-rwxr-xr-x   1 root   wheel      1425  5 Jun 22:25 runocc.d
+-r-xr-xr-x   1 root   wheel     19472  6 Jun 09:42 ruptime
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:26 rview -> vim
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:26 rvim -> vim
+-rwxr-xr-x   1 root   wheel      1428  5 Jun 22:25 rwbypid.d
+-rwxr-xr-x   1 root   wheel      2464  5 Jun 22:25 rwbytype.d
+-r-xr-xr-x   1 root   wheel     15200  6 Jun 09:42 rwho
+-rwxr-xr-x   1 root   wheel      6356  5 Jun 22:25 rwsnoop
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 s2p
+-rwxr-xr-x   1 root   wheel     53360  5 Jun 22:25 s2p5.12
+-rwxr-xr-x   1 root   wheel     53364  5 Jun 22:25 s2p5.16
+-rwxr-xr-x   1 root   wheel     71296  6 Jun 09:40 sample
+-rwxr-xr-x   1 root   wheel      2560  5 Jun 22:25 sampleproc
+-rwxr-xr-x   1 root   wheel     15632  6 Jun 09:40 sandbox-exec
+-rwxr-xr-x   1 root   wheel      7238  5 Jun 22:25 sandbox-simplify
+-rwxr-xr-x   1 root   wheel     73136  6 Jun 09:42 sar
+-rwxr-xr-x   1 root   wheel       450  2 Jul 00:43 sass
+-rwxr-xr-x   1 root   wheel       458  2 Jul 00:43 sass-convert
+-rwxr-xr-x   1 root   wheel     46304  5 Jun 22:25 say
+-rwxr-xr-x   1 root   wheel     74304  6 Jun 09:42 sc_usage
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 scandeps.pl
+-r-xr-xr-x   1 root   wheel      5815  5 Jun 22:24 scandeps5.12.pl
+-r-xr-xr-x   1 root   wheel      5815  5 Jun 22:24 scandeps5.16.pl
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 schemagen -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/schemagen
+-rwxr-xr-x   1 root   wheel    124464  5 Jun 22:07 scp
+-rwxr-xr-x   1 root   wheel    289536  5 Jun 22:26 screen
+-rwxr-xr-x   1 root   wheel     19488  5 Jun 22:26 script
+-rwxr-xr-x   1 root   wheel       450  2 Jul 00:43 scss
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 sdef
+-rwxr-xr-x   1 root   wheel     33408  5 Jun 22:25 sdiff
+-rwxr-xr-x   1 root   wheel       539  2 Jul 00:43 sdoc
+-rwxr-xr-x   1 root   wheel       545  2 Jul 00:43 sdoc-merge
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 sdp
+lrwxr-xr-x   1 root   wheel        32  5 Jun 22:26 sdx -> ../../System/Library/Tcl/bin/sdx
+-rwxr-xr-x   1 root   wheel    220240  6 Jun 09:41 security
+-rwxr-xr-x   1 root   wheel     38096  5 Jun 22:08 sed
+-rwxr-xr-x   1 root   wheel      2041  5 Jun 22:25 seeksize.d
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 segedit
+-rwxr-xr-x   1 root   wheel     19056  5 Jun 22:26 seq
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 serialver -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/serialver
+lrwxr-xr-x   1 root   wheel        80  6 Jun 14:59 servertool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/servertool
+-r-xr-xr-x   1 root   wheel     21408  5 Jun 22:14 setregion
+-rwxr-xr-x   1 root   wheel      1606  5 Jun 22:25 setuids.d
+-rwxr-xr-x   1 root   wheel    187424  5 Jun 22:07 sftp
+-rwxr-xr-x   1 root   wheel      2516  5 Jun 22:25 shar
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 shasum
+-rwxr-xr-x   1 root   wheel      7690  5 Jun 22:25 shasum5.12
+-rwxr-xr-x   1 root   wheel      8629  5 Jun 22:25 shasum5.16
+lrwxr-xr-x   1 root   wheel        18  1 May 15:39 shef -> /opt/chef/bin/shef
+-rwxr-xr-x   1 root   wheel     19040  5 Jun 22:26 shlock
+-r-xr-xr-x   1 root   wheel     21216  5 Jun 22:25 showmount
+-rwxr-xr-x   1 root   wheel      1603  5 Jun 22:25 sigdist.d
+-rwxr-xr-x   1 root   wheel    100656  5 Jun 22:24 sips
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 size
+lrwxr-xr-x   1 root   wheel         5  5 Jun 22:10 slogin -> ./ssh
+-r-xr-xr-x   1 root   wheel     99024  6 Jun 09:42 smbutil
+-rwxr-xr-x   1 root   wheel       928  5 Jun 22:26 smtpd.py
+lrwxr-xr-x   1 root   wheel        77  5 Jun 22:26 smtpd2.5.py -> ../../System/Library/Frameworks/Python.framework/Versions/2.5/bin/smtpd2.5.py
+lrwxr-xr-x   1 root   wheel        77  5 Jun 22:26 smtpd2.6.py -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/smtpd2.6.py
+lrwxr-xr-x   1 root   wheel        77  5 Jun 22:26 smtpd2.7.py -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/smtpd2.7.py
+lrwxr-xr-x   1 root   wheel        59  5 Jun 22:25 snfsdefrag -> /System/Library/Filesystems/acfs.fs/Contents/bin/snfsdefrag
+-rwxr-xr-x   1 root   wheel     29748  5 Jun 22:25 snmp-bridge-mib
+-rwxr-xr-x   1 root   wheel     20272  5 Jun 22:25 snmpbulkget
+-rwxr-xr-x   1 root   wheel     20688  5 Jun 22:25 snmpbulkwalk
+-rwxr-xr-x   1 root   wheel     26136  5 Jun 22:25 snmpconf
+-rwxr-xr-x   1 root   wheel     26064  5 Jun 22:25 snmpdelta
+-rwxr-xr-x   1 root   wheel     20352  5 Jun 22:25 snmpdf
+-rwxr-xr-x   1 root   wheel     16096  5 Jun 22:25 snmpget
+-rwxr-xr-x   1 root   wheel     16096  5 Jun 22:25 snmpgetnext
+-rwxr-xr-x   1 root   wheel     20784  5 Jun 22:25 snmpinform
+-rwxr-xr-x   1 root   wheel     47168  5 Jun 22:25 snmpnetstat
+-rwxr-xr-x   1 root   wheel     20208  5 Jun 22:25 snmpset
+-rwxr-xr-x   1 root   wheel     20832  5 Jun 22:25 snmpstatus
+-rwxr-xr-x   1 root   wheel     25696  5 Jun 22:25 snmptable
+-rwxr-xr-x   1 root   wheel     21312  5 Jun 22:25 snmptest
+-rwxr-xr-x   1 root   wheel     21808  5 Jun 22:25 snmptranslate
+-rwxr-xr-x   1 root   wheel     20784  5 Jun 22:25 snmptrap
+-rwxr-xr-x   1 root   wheel     34624  5 Jun 22:25 snmpusm
+-rwxr-xr-x   1 root   wheel     28496  5 Jun 22:25 snmpvacm
+-rwxr-xr-x   1 root   wheel     20576  5 Jun 22:25 snmpwalk
+-rwxr-xr-x   1 root   wheel     85968  6 Jun 09:41 sntp
+-rwxr-xr-x   1 root   wheel     34960  5 Jun 22:22 soelim
+-rwxr-xr-x   1 root   wheel     49936  5 Jun 22:08 sort
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 spfd
+-r-xr-xr-x   1 root   wheel      9486  5 Jun 22:24 spfd5.12
+-r-xr-xr-x   1 root   wheel      9486  5 Jun 22:24 spfd5.16
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 spfquery
+-r-xr-xr-x   1 root   wheel     23114  5 Jun 22:24 spfquery5.12
+-r-xr-xr-x   1 root   wheel     23081  5 Jun 22:24 spfquery5.16
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 splain
+-rwxr-xr-x   1 root   wheel     17512  5 Jun 22:25 splain5.12
+-rwxr-xr-x   1 root   wheel     18494  5 Jun 22:25 splain5.16
+-rwxr-xr-x   1 root   wheel     19104  5 Jun 22:08 split
+-rwxr-xr-x   1 root   wheel       458  2 Jul 00:43 spring
+-rwxr-xr-x   1 root   wheel       470  2 Jul 00:43 sprockets
+-rwxr-xr-x   1 root   wheel     52288  5 Jun 22:08 sqlite3
+-rwxr-xr-x   1 root   wheel     29744  5 Jun 22:26 srm
+-rwxr-xr-x   1 root   wheel   1202640  5 Jun 22:07 ssh
+-rwxr-xr-x   1 root   wheel    718736  5 Jun 22:07 ssh-add
+-rwxr-xr-x   1 root   wheel    736672  5 Jun 22:07 ssh-agent
+-rwxr-xr-x   1 root   wheel    989408  5 Jun 22:07 ssh-keygen
+-rwxr-xr-x   1 root   wheel    674160  5 Jun 22:07 ssh-keyscan
+-rwxr-xr-x   1 root   wheel     23472  5 Jun 22:08 stat
+-rwxr-xr-x   1 root   wheel    103232  6 Jun 09:40 stringdups
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 strings
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 strip
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 stty.pl
+-r-xr-xr-x   1 root   wheel       277  5 Jun 22:24 stty5.12.pl
+-r-xr-xr-x   1 root   wheel       277  5 Jun 22:24 stty5.16.pl
+-rwsr-xr-x   1 root   wheel     21488  5 Jun 22:26 su
+-r-s--x--x   1 root   wheel    164896  5 Jun 22:26 sudo
+-rwxr-xr-x   1 root   wheel     18720  5 Jun 22:25 sum
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 svn
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 svnadmin
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 svndumpfilter
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 svnlook
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 svnserve
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 svnsync
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 svnversion
+-rwxr-xr-x   1 root   wheel     14960  5 Jun 22:24 sw_vers
+-rwxr-xr-x   1 root   wheel     66256  6 Jun 09:38 symbols
+-rwxr-xr-x   1 root   wheel     97584  6 Jun 09:38 symbolscache
+-rwxr-xr-x   1 root   wheel      1260  5 Jun 22:25 syscallbypid.d
+-rwxr-xr-x   1 root   wheel       253  5 Jun 22:25 syscallbyproc.d
+-rwxr-xr-x   1 root   wheel       248  5 Jun 22:25 syscallbysysc.d
+-rwxr-xr-x   1 root   wheel    104096  6 Jun 09:40 sysdiagnose
+-rwxr-xr-x   1 root   wheel     57888  5 Jun 22:26 syslog
+-rwxr-xr-x   1 root   wheel     43264  5 Jun 22:26 tab2space
+-rwxr-xr-x   1 root   wheel     14656  5 Jun 22:25 tabs
+-rwxr-xr-x   1 root   wheel     24528  5 Jun 22:08 tail
+-r-xr-xr-x   1 root   wheel     26928  6 Jun 09:42 talk
+lrwxr-xr-x   1 root   wheel         6  5 Jun 22:10 tar -> bsdtar
+-rwxr-xr-x   1 root   wheel    119168  5 Jun 22:22 tbl
+-rwxr-xr-x   1 root   wheel     15248  5 Jun 22:22 tccutil
+lrwxr-xr-x   1 root   wheel         8  5 Jun 22:26 tclsh -> tclsh8.5
+lrwxr-xr-x   1 root   wheel        67  5 Jun 22:26 tclsh8.4 -> ../../System/Library/Frameworks/Tcl.framework/Versions/8.4/tclsh8.4
+lrwxr-xr-x   1 root   wheel        67  5 Jun 22:26 tclsh8.5 -> ../../System/Library/Frameworks/Tcl.framework/Versions/8.5/tclsh8.5
+-rwxr-xr-x   1 root   wheel     14400  5 Jun 22:26 tee
+-r-xr-xr-x   1 root   wheel    113408  6 Jun 09:42 telnet
+-r-xr-xr-x   1 root   wheel       128  6 Jun 09:42 testrb
+-rwxr-xr-x   1 root   wheel     28218  5 Jun 22:26 texi2dvi
+-rwxr-xr-x   1 root   wheel       660  5 Jun 22:26 texi2pdf
+-rwxr-xr-x   1 root   wheel     52416  5 Jun 22:26 texindex
+-rwxr-xr-x   1 root   wheel     45184  5 Jun 22:24 textutil
+-rwxr-xr-x   1 root   wheel     34976  5 Jun 22:22 tfmtodit
+-r-xr-xr-x   1 root   wheel     30816  6 Jun 09:42 tftp
+-rwxr-xr-x   1 root   wheel       500  2 Jul 00:22 thor
+-rwxr-xr-x   1 root   wheel     51760  5 Jun 22:25 tic
+-rwxr-xr-x   1 root   wheel     66640  5 Jun 22:26 tidy
+-rwxr-xr-x   1 root   wheel     20272  5 Jun 22:24 tiff2icns
+-rwxr-xr-x   1 root   wheel    331152  5 Jun 22:24 tiffutil
+-rwxr-xr-x   1 root   wheel       500  2 Jul 00:22 tilt
+-rwxr-xr-x   1 root   wheel     14432  5 Jun 22:26 time
+-rwxr-xr-x   1 root   wheel      2886  5 Jun 22:25 timer_analyser.d
+-rwxr-xr-x   1 root   wheel      4307  5 Jun 22:25 timerfires
+lrwxr-xr-x   1 root   wheel        43  5 Jun 22:26 tkcon -> ../../System/Library/Tcl/tkcon2.6/tkcon.tcl
+-rwxr-xr-x   1 root   wheel     30924  5 Jun 22:25 tkmib
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 tkpp
+-r-xr-xr-x   1 root   wheel     28914  5 Jun 22:24 tkpp5.12
+-r-xr-xr-x   1 root   wheel     78220  5 Jun 22:24 tkpp5.16
+-rwxr-xr-x   1 root   wheel    201760  5 Jun 22:25 tmdiagnose
+-rwxr-xr-x   1 root   wheel    275920  5 Jun 22:25 tmutil
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 tnameserv -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/tnameserv
+-rwxr-xr-x   1 root   wheel     20752  5 Jun 22:25 toe
+-r-sr-xr-x   1 root   wheel     83856  5 Jun 22:26 top
+-rwxr-xr-x   1 root   wheel     99568  5 Jun 22:24 tops
+-rwxr-xr-x   1 root   wheel      4619  5 Jun 22:25 topsyscall
+-rwxr-xr-x   1 root   wheel      2950  5 Jun 22:25 topsysproc
+-rwxr-xr-x   1 root   wheel     19376  5 Jun 22:08 touch
+-rwxr-xr-x   1 root   wheel     20288  5 Jun 22:25 tput
+-rwxr-xr-x   1 root   wheel     23728  5 Jun 22:08 tr
+-rwxr-xr-x   1 root   wheel    123952  6 Jun 09:42 trace
+-rwxr-xr-x   1 root   wheel      2207  5 Jun 22:25 traptoemail
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 treereg
+-r-xr-xr-x   1 root   wheel     10339  5 Jun 22:24 treereg5.12
+-r-xr-xr-x   1 root   wheel     10339  5 Jun 22:24 treereg5.16
+lrwxr-xr-x   1 root   wheel        73  5 Jun 22:25 trial -> /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/bin/trial
+-rwxr-xr-x   1 root   wheel    480512  5 Jun 22:22 troff
+-rwxr-xr-x   1 root   wheel     13808  5 Jun 22:24 true
+-rwxr-xr-x   1 root   wheel     24848  5 Jun 22:08 tset
+-r-xr-xr-x   1 root   wheel     18976  5 Jun 22:25 tsort
+-rwxr-xr-x   1 root   wheel       507  2 Jul 00:22 tt
+-rwxr-xr-x   1 root   wheel     14048  5 Jun 22:25 tty
+lrwxr-xr-x   1 root   wheel        54 31 Oct  2012 twdiff -> /Applications/TextWrangler.app/Contents/Helpers/twdiff
+lrwxr-xr-x   1 root   wheel        54 31 Oct  2012 twfind -> /Applications/TextWrangler.app/Contents/Helpers/twfind
+lrwxr-xr-x   1 root   wheel        74  5 Jun 22:25 twistd -> /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/bin/twistd
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 type
+-rwxr-xr-x   1 root   wheel     69248  5 Jun 22:26 ubcontrol
+-rwxr-xr-x   1 root   wheel     19264  5 Jun 22:08 ul
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 ulimit
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 umask
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 unalias
+-rwxr-xr-x   1 root   wheel     14416  5 Jun 22:24 uname
+-rwxr-xr-x   2 root   wheel     23664  5 Jun 22:25 uncompress
+-rwxr-xr-x   1 root   wheel     14592  5 Jun 22:08 unexpand
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 unifdef
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 unifdefall
+-rwxr-xr-x   1 root   wheel     19152  5 Jun 22:08 uniq
+-r-xr-xr-x   1 root   wheel     23744  5 Jun 22:25 units
+lrwxr-xr-x   1 root   wheel        79  6 Jun 14:59 unpack200 -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/unpack200
+-rwxr-xr-x   1 root   wheel     14384  5 Jun 22:08 unvis
+-rwxr-xr-x   2 root   wheel    122320  5 Jun 22:26 unzip
+-rwxr-xr-x   1 root   wheel     63728  5 Jun 22:26 unzipsfx
+-rwxr-xr-x   1 root   wheel    509856  6 Jun 09:42 update_dyld_shared_cache
+-rwxr-xr-x   1 root   wheel       462 15 Feb  2012 update_rubygems
+-rwxr-xr-x   2 root   wheel     20272  5 Jun 22:26 uptime
+-rwxr-xr-x   1 root   wheel     14384  5 Jun 22:26 users
+-r-xr-xr-x   1 _uucp  wheel     93456  5 Jun 22:26 uucp
+-r-xr-xr-x   1 root   wheel     20208  5 Jun 22:25 uudecode
+-r-xr-xr-x   1 root   wheel     14784  5 Jun 22:25 uuencode
+-rwxr-xr-x   1 root   wheel     14464  6 Jun 09:37 uuidgen
+-rwxr-xr-x   1 root   wheel     65968  5 Jun 22:26 uulog
+-r-xr-xr-x   1 _uucp  wheel     44192  5 Jun 22:26 uuname
+-rwxr-xr-x   1 root   wheel     71168  5 Jun 22:26 uupick
+-r-xr-xr-x   1 _uucp  wheel    101856  5 Jun 22:26 uustat
+-rwxr-xr-x   1 root   wheel      1958  5 Jun 22:26 uuto
+-r-xr-xr-x   1 _uucp  wheel     97552  5 Jun 22:26 uux
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:10 vi -> vim
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:26 view -> vim
+-rwxr-xr-x   1 root   wheel   1472736  5 Jun 22:08 vim
+lrwxr-xr-x   1 root   wheel         3  5 Jun 22:26 vimdiff -> vim
+-rwxr-xr-x   1 root   wheel      2084  5 Jun 22:26 vimtutor
+-rwxr-xr-x   1 root   wheel     14512  5 Jun 22:08 vis
+-rwxr-xr-x   1 root   wheel     43648  6 Jun 09:42 vm_stat
+-rwxr-xr-x   1 root   wheel     80000  6 Jun 09:40 vmmap
+-rwxr-xr-x   2 root   wheel     20272  5 Jun 22:26 w
+-rwxr-xr-x  15 root   wheel       190  5 Jun 22:26 wait
+-r-xr-sr-x   1 root   tty       20832  6 Jun 09:42 wall
+-rwxr-xr-x   1 root   wheel     19072  5 Jun 22:08 wc
+-rwxr-xr-x   1 root   wheel     24896  6 Jun 09:37 wdutil
+-rwxr-xr-x   1 root   wheel      4013  5 Jun 22:25 weblatency.d
+-rwxr-xr-x   1 root   wheel     14096  5 Jun 22:08 what
+-r-xr-xr-x   1 root   wheel      1806  5 Jun 22:25 whatis
+-rwxr-xr-x   1 root   wheel     14576  5 Jun 22:26 whereis
+-rwxr-xr-x   1 root   wheel     14576  5 Jun 22:26 which
+-rwxr-xr-x   1 root   wheel     19536  5 Jun 22:26 who
+-rwxr-xr-x   3 root   wheel     19264  5 Jun 22:24 whoami
+-rwxr-xr-x   1 root   wheel     19472  5 Jun 22:08 whois
+lrwxr-xr-x   1 root   wheel         7  5 Jun 22:26 wish -> wish8.5
+-r-xr-xr-x   1 root   wheel       127  5 Jun 22:26 wish8.4
+-r-xr-xr-x   1 root   wheel       127  5 Jun 22:26 wish8.5
+-r-xr-sr-x   1 root   tty       19920  5 Jun 22:25 write
+lrwxr-xr-x   1 root   wheel        75  6 Jun 14:59 wsgen -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/wsgen
+lrwxr-xr-x   1 root   wheel        78  6 Jun 14:59 wsimport -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/wsimport
+-rwxr-xr-x   1 root   wheel     30096  5 Jun 22:08 xar
+-rwxr-xr-x   1 root   wheel     20192  5 Jun 22:26 xargs
+-rwxr-xr-x   2 root   wheel       925  5 Jun 22:26 xattr
+-rwxr-xr-x   1 root   wheel      7786  5 Jun 22:26 xattr-2.5
+-rwxr-xr-x   1 root   wheel      9442  5 Jun 22:26 xattr-2.6
+-rwxr-xr-x   1 root   wheel      9442  5 Jun 22:26 xattr-2.7
+-rwxr-xr-x   1 root   wheel     19552  5 Jun 22:24 xcode-select
+-rwxr-xr-x   1 root   wheel     14256  5 Jun 22:24 xcodebuild
+-rwxr-xr-x   1 root   wheel     13968  5 Jun 22:24 xcrun
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 xed
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 xgettext.pl
+-r-xr-xr-x   1 root   wheel      6247  5 Jun 22:24 xgettext5.12.pl
+-r-xr-xr-x   1 root   wheel      6247  5 Jun 22:24 xgettext5.16.pl
+-rwxr-xr-x   1 root   wheel     25120  5 Jun 22:24 xip
+lrwxr-xr-x   1 root   wheel        73  6 Jun 14:59 xjc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/xjc
+-rwxr-xr-x   1 root   wheel       952  5 Jun 22:25 xml2-config
+-rwxr-xr-x   1 root   wheel     14240  5 Jun 22:24 xml2man
+-rwxr-xr-x   1 root   wheel     52976  5 Jun 22:25 xmlcatalog
+-rwxr-xr-x   1 root   wheel    127776  5 Jun 22:25 xmllint
+-rwxr-xr-x  32 root   wheel       811  5 Jun 22:24 xpath
+-r-xr-xr-x   1 root   wheel      1445  5 Jun 22:24 xpath5.12
+-r-xr-xr-x   1 root   wheel      1445  5 Jun 22:24 xpath5.16
+-rwxr-xr-x   1 root   wheel       944  5 Jun 22:25 xslt-config
+-rwxr-xr-x   1 root   wheel     66960  5 Jun 22:25 xsltproc
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 xsubpp
+-rwxr-xr-x   1 root   wheel      4128  5 Jun 22:25 xsubpp5.12
+-rwxr-xr-x   1 root   wheel      4591  5 Jun 22:25 xsubpp5.16
+-rwxr-xr-x   1 root   wheel     23440  5 Jun 22:26 xxd
+-rwxr-xr-x   1 root   wheel     14224  5 Jun 22:24 yacc
+-rwxr-xr-x   1 root   wheel     13808  5 Jun 22:26 yes
+-r-xr-xr-x   1 root   wheel     14400  6 Jun 09:42 ypcat
+-r-xr-xr-x   1 root   wheel     14464  6 Jun 09:42 ypmatch
+-r-xr-xr-x   1 root   wheel     15040  6 Jun 09:42 ypwhich
+-rwxr-xr-x   4 root   wheel     43200  5 Jun 22:25 zcat
+-rwxr-xr-x   2 root   wheel      3264  5 Jun 22:25 zcmp
+-rwxr-xr-x   2 root   wheel      3264  5 Jun 22:25 zdiff
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 zegrep
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 zfgrep
+-rwxr-xr-x   1 root   wheel      1454  5 Jun 22:25 zforce
+-rwxr-xr-x   6 root   wheel     30096  5 Jun 22:25 zgrep
+-rwxr-xr-x   1 root   wheel    167392  5 Jun 22:26 zip
+-rwxr-xr-x   1 root   wheel     74048  5 Jun 22:26 zipcloak
+-rwxr-xr-x  39 root   wheel       811  5 Jun 22:25 zipdetails
+-rwxr-xr-x   1 root   wheel     48113  5 Jun 22:25 zipdetails5.16
+-rwxr-xr-x   1 root   wheel      1188  5 Jun 22:26 zipgrep
+-rwxr-xr-x   2 root   wheel    122320  5 Jun 22:26 zipinfo
+-rwxr-xr-x   1 root   wheel     69248  5 Jun 22:26 zipnote
+-rwxr-xr-x   1 root   wheel     69360  5 Jun 22:26 zipsplit
+-rwxr-xr-x   2 root   wheel      2077  5 Jun 22:25 zless
+-rwxr-xr-x   2 root   wheel      2077  5 Jun 22:25 zmore
+-rwxr-xr-x   1 root   wheel      3376  5 Jun 22:25 znew
+-rwxr-xr-x   1 root   wheel     47872  6 Jun 09:42 zprint
