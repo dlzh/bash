@@ -1,5 +1,7 @@
 #!/bin/bash
-#This is edited in master branch
+#This is edited in master branch and also changed some thing for barnch 01 
+
+>>>>>>> branch01
 echo "This script can make any of the files in this directory private."
 echo "Enter the number of the file you want to protect:"
 
